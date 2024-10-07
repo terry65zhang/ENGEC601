@@ -1,5 +1,6 @@
 # ENGEC601
 Sprint 1 Deliverable
+
 Team Project: Design of Coffee Shop Transaction System
 
 Mission Statement
